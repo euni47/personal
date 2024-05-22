@@ -1,0 +1,59 @@
+/* 상단영역 */
+header {
+  
+  background-color: #eee;
+}
+header div.wrap {
+  
+}
+header div.wrap nav {
+  display: grid;
+  grid-template-columns: 1fr auto auto;
+  align-items: center;
+  column-gap: 45px;
+}
+header div.wrap nav h1 {
+  
+}
+header div.wrap nav h1 a {
+  
+}
+header div.wrap nav ul.gnb {
+  
+}
+header div.wrap nav ul.gnb li {
+  
+}
+header div.wrap nav ul.gnb li a {
+  padding: 0 10px;
+  line-height: 2;
+  display: block;
+}
+header div.wrap nav ul.enb {
+  
+}
+header div.wrap nav ul.enb li {
+  
+}
+header div.wrap nav ul.enb li a {
+  
+}
+
+/* 타이틀영역 */
+div#title{
+
+}
+div#title div.wrap{
+  height: 700px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 30px;
+}
+div#title div.wrap h2{
+    
+}
+div#title div.wrap p{
+    
+}
